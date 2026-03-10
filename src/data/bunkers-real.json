@@ -1,0 +1,86 @@
+[
+  {
+    "id": "tirpitz-mu-842",
+    "title": "Tirpitz Museum",
+    "location": "Blåvand, Denmark",
+    "coordinates": {
+      "lat": 55.5502,
+      "lng": 8.1722
+    },
+    "description": "The Tirpitz Museum may refer to:",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": null
+  },
+  {
+    "id": "bundesbank-463",
+    "title": "Bundesbank Bunker",
+    "location": "Cochem, Germany",
+    "coordinates": {
+      "lat": 50.152,
+      "lng": 7.1744
+    },
+    "description": "Intel unavailable. Top secret classification.",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": null
+  },
+  {
+    "id": "kelvedon-h-168",
+    "title": "Kelvedon Hatch Secret Nuclear Bunker",
+    "location": "Essex, UK",
+    "coordinates": {
+      "lat": 51.6697,
+      "lng": 0.2539
+    },
+    "description": "The Kelvedon Hatch Secret Nuclear Bunker at Kelvedon Hatch, in the Borough of Brentwood in the English county of Essex, is a large underground bunker maintained during the Cold War as a potential regional government headquarters. Since being decommissioned in 1992, the bunker has been open to the public as a tourist attraction, with a museum focusing on its Cold War history.",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": null
+  },
+  {
+    "id": "bunker-42-12",
+    "title": "Bunker-42",
+    "location": "Moscow, Russia",
+    "coordinates": {
+      "lat": 55.7418,
+      "lng": 37.6491
+    },
+    "description": "Intel unavailable. Top secret classification.",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": null
+  },
+  {
+    "id": "cheyenne-m-909",
+    "title": "Cheyenne Mountain Complex",
+    "location": "Colorado, USA",
+    "coordinates": {
+      "lat": 38.7441,
+      "lng": -104.8463
+    },
+    "description": "The Cheyenne Mountain Complex (CMOC)[a] is a non-public military installation of the United States Department of Defense[b] located inside Cheyenne Mountain, in El Paso County, Colorado. It is the training complex for crew qualification, and is an alternate command center for the North American Aerospace Defense Command (NORAD), and United States Northern Command (USNORTHCOM). The installation was established in February 1967 as a bunker and operations center, and was designed to be partially resistant to attack by nuclear-tipped missiles. Built and owned by the Department of Defense, it also has Royal Canadian Air Force personnel serving there.",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cheyenne_Mountain_Space_Force_Station_Base_Upgrade_Photos_%288248119%29.jpg/250px-Cheyenne_Mountain_Space_Force_Station_Base_Upgrade_Photos_%288248119%29.jpg"
+  },
+  {
+    "id": "the-diefen-616",
+    "title": "The Diefenbunker",
+    "location": "Carp, Ontario, Canada",
+    "coordinates": {
+      "lat": 45.3516,
+      "lng": -76.0477
+    },
+    "description": "The Diefenbunker, formerly known by its military designation, Canadian Forces Station Carp (CFS Carp), is a large underground four-storey reinforced concrete bunker and nuclear fallout shelter located in the rural area of Carp, Ontario approximately 30 km (19 mi) west of downtown Ottawa.  Between 1957 and 1961, during the Cold War the Government of Canada led by then Prime Minister John Diefenbaker authorized the Diefenbunker to be designed and built as the Central Emergency Government Headquarters (CEGHQ Carp) in an attempt to ensure the continuity of government subsequent to a nuclear weapons attack by the Soviet Union.  In 1994, CFS Carp was decommissioned and closed.",
+    "status": "VERIFIED",
+    "depth": "CLASSIFIED",
+    "capacity": "UNKNOWN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Diefenbunker.JPG/330px-Diefenbunker.JPG"
+  }
+]

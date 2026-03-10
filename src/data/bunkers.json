@@ -1,0 +1,52 @@
+[
+  {
+    "id": "svlb-01",
+    "title": "Svalbard Global Seed Vault",
+    "location": "Spitsbergen, Norway",
+    "coordinates": {"lat": 78.2356, "lng": 15.4913},
+    "description": "Buried 120 meters into a sandstone mountain on Spitsbergen Island. Engineered to withstand nuclear strikes and tectonic shifts. Currently securing the global food supply.",
+    "status": "CLASSIFIED",
+    "depth": "120M",
+    "capacity": "4.5M SAMPLES"
+  },
+  {
+    "id": "chync-02",
+    "title": "Cheyenne Mountain Complex",
+    "location": "Colorado, USA",
+    "coordinates": {"lat": 38.7441, "lng": -104.8463},
+    "description": "Excavated under 2,000 feet of solid granite. A former NORAD command center designed to survive a multi-megaton nuclear yield. Protected by 25-ton blast doors.",
+    "status": "ACTIVE",
+    "depth": "600M",
+    "capacity": "800 PERSONNEL"
+  },
+  {
+    "id": "oppo-03",
+    "title": "Oppidum",
+    "location": "Czech Republic",
+    "coordinates": {"lat": 49.8174, "lng": 15.4729},
+    "description": "Considered the largest billionaire bunker in the world. Originally a top-secret joint project between the Soviet Union and Czechoslovakia. Now retrofitted for ultra-luxury off-grid survival.",
+    "status": "PRIVATE",
+    "depth": "UNKNOWN",
+    "capacity": "1 FAM + STAFF"
+  },
+  {
+    "id": "siloh-04",
+    "title": "Survival Condo Project",
+    "location": "Kansas, USA",
+    "coordinates": {"lat": 38.8688, "lng": -97.5815},
+    "description": "A former Atlas F missile silo converted into a 15-story luxury survival complex. Walls consist of extreme-strength epoxied concrete.",
+    "status": "PRIVATE",
+    "depth": "60M",
+    "capacity": "75 PERSONNEL"
+  },
+  {
+    "id": "pbwd-05",
+    "title": "Pine Gap",
+    "location": "Northern Territory, Australia",
+    "coordinates": {"lat": -23.7990, "lng": 133.7370},
+    "description": "Joint defence facility run by Australia and the CIA. The surface radomes hide an extensive subterranean infrastructure.",
+    "status": "RESTRICTED",
+    "depth": "CLASSIFIED",
+    "capacity": "800 PERSONNEL"
+  }
+]
